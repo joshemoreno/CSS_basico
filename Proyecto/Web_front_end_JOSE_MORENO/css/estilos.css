@@ -576,13 +576,5 @@ button{
     font-size: 100%;
     background-color: sandybrown;
   }
-
-  .triangle-up {
-    width: 0;
-    height: 0;
-    border-left: 25px solid transparent;
-    border-right: 25px solid transparent;
-    border-bottom: 50px solid rgb(246, 156, 85);
-  }
 }
 
